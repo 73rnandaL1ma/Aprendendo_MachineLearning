@@ -1,4 +1,4 @@
-Projeto Ciência de Dados - Novo objetivo é conseguir prever os preços de Novos de barcos usando como parâmetro: Ano, material, largura e comprimento.
+Projeto Ciência de Dados - Objetivo é conseguir prever os preços de Novos de barcos usando como parâmetro: Ano, material, largura e comprimento.
 
 
 - Passo 1: Entendimento do Desafio
